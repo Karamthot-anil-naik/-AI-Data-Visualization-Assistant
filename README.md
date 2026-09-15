@@ -2,6 +2,8 @@
 
 An AI-powered data visualization assistant that allows users to upload CSV or Excel datasets, automatically analyze the data, recommend suitable visualizations, generate interactive charts, and ask questions about their dataset using natural language.
 
+# streamlit demo link
+https://m4cxt2wsddewaxe4gd2ctl.streamlit.app/
 # 📌 Project Overview
 
 Data visualization is an important part of data analysis. However, selecting the right visualization and understanding a new dataset can take significant time.
