@@ -288,7 +288,7 @@ Interactive Chart
               │                         │
               ▼                         ▼
       ┌────────────────┐       ┌────────────────┐
-      │ visualizer.py  │       │  ai_agent.py   │
+      │ visualizer.py  │       │     │
       │                │       │                │
       │     Plotly     │       │     Ollama     │
       └────────┬───────┘       └────────┬───────┘
