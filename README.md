@@ -2,33 +2,6 @@
 
 An AI-powered data visualization assistant that allows users to upload CSV or Excel datasets, automatically analyze the data, recommend suitable visualizations, generate interactive charts, and ask questions about their dataset using natural language.
 
-## AI API setup
-
-The app uses Ollama Cloud and does not require a local Ollama installation or a downloaded model.
-
-Install dependencies:
-
-```bash
-uv sync
-```
-
-Create a `.env` file in the project root:
-
-```env
-OLLAMA_API_KEY=your_ollama_api_key_here
-OLLAMA_MODEL=gpt-oss:20b
-```
-
-Start the app:
-
-```bash
-streamlit run app.py
-```
-
-Set `OLLAMA_MODEL` to another model available in your Ollama Cloud account when needed.
-
-
-
 # 📌 Project Overview
 
 Data visualization is an important part of data analysis. However, selecting the right visualization and understanding a new dataset can take significant time.
